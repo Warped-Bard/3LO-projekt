@@ -1,0 +1,21 @@
+dzik:
+  hp: 5
+  atak: 2
+  szybkosc: 2
+  exp: 3
+  critical: 1.4
+  drop:
+    - surowa dziczyzna
+    - surowa dziczyzna
+    - skora
+
+wilk:
+  hp: 4
+  atak: 3
+  szybkosc: 3
+  exp: 4
+  critical: 1.3
+  drop:
+    - kosc
+    - skora
+    - skora
